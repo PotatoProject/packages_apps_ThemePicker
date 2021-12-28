@@ -59,7 +59,8 @@
     <string name="font_preview_content_description">Font preview</string>
 
     <!-- Content description of icon preview. [CHAR_LIMIT=30]-->
-    <string name="icon_preview_content_description">Icon preview</string>
+    <string name="icon_preview_content_description">Icon Preview</string>
+    <string name="icon_preview_card_content_description">@string/icon_preview_content_description</string>
 
     <!-- Content description of color preview. [CHAR_LIMIT=30]-->
     <string name="color_preview_content_description">Color preview</string>
@@ -267,4 +268,6 @@
     <!-- Title of a section of color selection option that obtains colors automatically from the
         wallpaper instead of a set color [CHAR LIMIT=15] -->
     <string name="adaptive_color_title">Dynamic</string>
+
+    <string name="icon_pack_title">System Icon Packs</string>
 </resources>

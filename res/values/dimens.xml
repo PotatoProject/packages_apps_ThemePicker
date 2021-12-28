@@ -135,4 +135,7 @@
     <dimen name="color_seed_option_tile_padding">10dp</dimen>
     <dimen name="color_seed_option_tile_padding_selected">6dp</dimen>
     <dimen name="color_seed_chip_margin">14dp</dimen>
+
+    <dimen name="icon_options_container_min_height">96dp</dimen>
+    <dimen name="icon_options_container_top_margin">24dp</dimen>
 </resources>
